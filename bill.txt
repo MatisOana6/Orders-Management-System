@@ -1,0 +1,5 @@
+Bill
+Client id: 2
+Bought product: 2
+Quantity: 10
+Price: 2300.0
